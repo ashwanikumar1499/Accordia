@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.accordian-item {
+  background-color: aliceblue;
+  border: 1px solid aquamarine;
+  cursor: pointer;
+}
+
+.accordian-header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.accordian-content {
+  padding: 10px;
+}
